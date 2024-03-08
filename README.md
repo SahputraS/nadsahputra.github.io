@@ -2,8 +2,8 @@
 Technical Skills: Python, R, SQL, MATLAB 
 
 ### Education
-lalalala
-- lalalal
+- M.Sc., Physics of Data | University of Padova (#### Ongoing)
+- B.Sc., Physics | Bandung Institute of Technology (#### August 2016)
 
 ### Work Experience
 lalalala
