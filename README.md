@@ -1,4 +1,5 @@
-# nadsahputra.github.io
+# Master Student Physics of Data - University of Padova
+Technical Skills: Python, R, SQL, MATLAB 
 
 ### Education
 lalalala
