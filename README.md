@@ -1,5 +1,5 @@
 # Master Student Physics of Data - University of Padova
-Technical Skills: Python, R, SQL, MATLAB 
+Technical Skills: Python, R, SQL, MATLAB, Microsoft Excel
 
 ### Education
 - M.Sc., Physics of Data | University of Padova (*Ongoing*)
